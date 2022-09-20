@@ -7,8 +7,6 @@
 # Bili.Material
   
 A Third-party [bilibili](https://www.bilibili.com) client in Material You.
-  
-[<img alt="Telegram URL" src="https://img.shields.io/twitter/url?color=%23DFE2F2&label=%40BiliMaterialYou&logo=Telegram&logoColor=%23474648&url=https%3A%2F%2Ft.me%2FBiliMaterialYou">](https://img.shields.io/twitter/url?color=%23DFE2F2&label=%40Krrrrrik&logo=Sina%20Weibo&logoColor=%23474648&url=https%3A%2F%2Fweibo.com%2Fu%2F6613207797)
 
   
 ---
