@@ -8,6 +8,8 @@
   
 A Third-party [bilibili](https://www.bilibili.com) client in Material You.
   
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%23DFE2F2&label=%40Krrrrrik&logo=twitter&logoColor=%23474648&style=social&url=https%3A%2F%2Ftwitter.com%2FKrrrrriK">
+  
 ---
 
 </div>
